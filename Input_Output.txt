@@ -1,0 +1,40 @@
+#TEST 1
+
+C 145 F
+
+
+Temperature Conversion Application
+Please Enter the Current Scale and value of that scale and then
+Enter the Target Scale in which you want the Temperature to Be Converted
+Like current_scale=C value=25 target_scale=K
+This will give you output like 
+25 Degrees Celsius is equal to 298.15 Kelvin
+.............................................
+145.0 Degrees Celsius is equal to 293.0 Fahrehheit 
+
+#TEST 2
+
+F 233 K
+
+Temperature Conversion Application
+Please Enter the Current Scale and value of that scale and then
+Enter the Target Scale in which you want the Temperature to Be Converted
+Like current_scale=C value=25 target_scale=K
+This will give you output like 
+25 Degrees Celsius is equal to 298.15 Kelvin
+.............................................
+233.0 Degrees Fahrehheit is equal to 273.15 Kelvin 
+
+
+#TEST 3
+
+K 273.15 C
+
+Temperature Conversion Application
+Please Enter the Current Scale and value of that scale and then
+Enter the Target Scale in which you want the Temperature to Be Converted
+Like current_scale=C value=25 target_scale=K
+This will give you output like 
+25 Degrees Celsius is equal to 298.15 Kelvin
+.............................................
+273.15 Degrees Kelvin is equal to 0.0 Celsius 
