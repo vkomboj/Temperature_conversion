@@ -6,7 +6,7 @@ C 145 F
 Temperature Conversion Application
 Please Enter the Current Scale and value of that scale and then
 Enter the Target Scale in which you want the Temperature to Be Converted
-Like current_scale=C value=25 target_scale=K
+Like C 25 K
 This will give you output like 
 25 Degrees Celsius is equal to 298.15 Kelvin
 .............................................
@@ -19,7 +19,7 @@ F 233 K
 Temperature Conversion Application
 Please Enter the Current Scale and value of that scale and then
 Enter the Target Scale in which you want the Temperature to Be Converted
-Like current_scale=C value=25 target_scale=K
+Like C 25 K
 This will give you output like 
 25 Degrees Celsius is equal to 298.15 Kelvin
 .............................................
@@ -33,7 +33,7 @@ K 273.15 C
 Temperature Conversion Application
 Please Enter the Current Scale and value of that scale and then
 Enter the Target Scale in which you want the Temperature to Be Converted
-Like current_scale=C value=25 target_scale=K
+Like C 25 K
 This will give you output like 
 25 Degrees Celsius is equal to 298.15 Kelvin
 .............................................
